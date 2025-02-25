@@ -19,7 +19,7 @@ This repository is intended for **educational purposes only**. The assignments p
 ## 🚀 Getting Started  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/cico-rial/SMMAI.git
    ```  
 2. Navigate to the repository folder and explore the assignments.  
 3. Run the provided Python notebooks or scripts to see the methods in action.  
